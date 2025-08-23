@@ -10,7 +10,7 @@
 - 🎓 Currently studying **Computer and Software Engineering** at the Technical University of Sofia (3rd year)  
 - 🌱 Passionate about learning, building projects, and growing every day  
 - 🎀 Fresh perspective, creative energy, and a big love for tech  
-- 💡 Open to collaboration and new opportunities in **ML & Software Development**  
+- 💡 Open to new opportunities in **ML & Software Development**  
 
 ---
 
@@ -31,16 +31,16 @@
 ## 📊 My GitHub Stats  
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TeodoraDyugoreva&show_icons=true&theme=tokyonight&title_color=bf91f3&icon_color=61dafb&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeodoraDyugoreva&layout=compact&theme=tokyonight&title_color=bf91f3&text_color=ffffff&bg_color=0d1117" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TeodoraDyulgerova&show_icons=true&theme=tokyonight&title_color=bf91f3&icon_color=61dafb&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeodoraDyulgerova&layout=compact&theme=tokyonight&title_color=bf91f3&text_color=ffffff&bg_color=0d1117" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TeodoraDyugoreva&theme=tokyonight_duo&ring=bf91f3&fire=61dafb&currStreakLabel=ffffff" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TeodoraDyulgerova&theme=tokyonight_duo&ring=bf91f3&fire=61dafb&currStreakLabel=ffffff" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TeodoraDyugoreva&theme=tokyo-night&bg_color=0d1117&title_color=bf91f3&line=61dafb&point=ffffff" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TeodoraDyulgerova&theme=tokyo-night&bg_color=0d1117&title_color=bf91f3&line=61dafb&point=ffffff" alt="Contribution Graph"/>
 </p>
 
 ---
@@ -55,7 +55,7 @@
 
 ## ⚡ Profile Views  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TeodoraDyugoreva&color=bf91f3&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=TeodoraDyulgerova&color=bf91f3&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
@@ -71,7 +71,7 @@
 
 ## 📬 Connect with me  
 <p align="center">
-  <a href="[тук-сложи-линка-към-LinkedIn](https://www.linkedin.com/in/teodora-dyulgerova-6547a1311/)"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="(https://ww[тук-сложи-линка-към-LinkedIn]w.linkedin.com/in/teodora-dyulgerova-6547a1311/)"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="[тук-сложи-линка-към-Instagram](https://www.instagram.com/_teodora.d/)"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="[тук-сложи-линка-към-Facebook](https://www.facebook.com/profile.php?id=100012583813529&locale=bg_BG)"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
   <a href=""><img src="https://img.shields.io/badge/SoftUni-2B547E?style=for-the-badge&logo=gradle&logoColor=white"/></a>
