@@ -1,39 +1,41 @@
-## 👋 Introduction & Bio
-💻 
+# 👋 Hey Everyone, I'm Teodora  
 
-🧠 <strong>Python</strong> is my main programming language .
+🌌 **Welcome to My GitHub Universe!** 🚀  
 
+- 🐍 Python is my main programming language  
+- 📚 Focused on learning and improving every day  
+- 💻 Enjoy working on various projects  
+- 🤝 Open to collaboration  
+- 🎨 Offering creative coding solutions  
 
+---
 
+### 🔗 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/твоя-профил)  
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://instagram.com/твоя-профил)  
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://facebook.com/твоя-профил)  
 
-- 🌱 learning:<p></p>
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%23ED8B00.svg?style=for-the-badge&logo=python&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-### GitHub stats
-<p>
-<img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Te150104&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true" />
-  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Te150104&langs_count=8&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db&&count_private=true&include_all_commits=true" />
-</p>
-<p></p><p></p>
+---
 
+### 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeodoraDyu&show_icons=true&theme=tokyonight)  
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Te150104&style=for-the-badge&color=brightgreen)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeodoraDyu&layout=compact&theme=tokyonight)  
 
- 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TeodoraDyu&theme=tokyonight)  
 
+---
 
-### OS I use:
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+### 🛠️ Languages & Tools  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)  
 
+---
 
-### How to connect with me:
-[![LinkedIn]()
-[![Instagram](https://www.instagram.com/)
-[![Facebook]()
-
+### 🏆 Achievements  
+- 🌟 Developer Program Member  
+- 🚀 Open-source contributor  
+- 🎯 Constant learner  
