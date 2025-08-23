@@ -18,10 +18,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-orange?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
@@ -48,8 +48,7 @@
 ## 🏆 Achievements  
 - ✨ Started my **Machine Learning** journey  
 - 🎓 3rd year student at **TU Sofia**  
-- 🎀 Always learning and improving  
-- 🌟 Open to exciting collaborations  
+- 🎀 Always learning and improving    
 
 ---
 
@@ -71,8 +70,7 @@
 
 ## 📬 Connect with me  
 <p align="center">
-  <a href="(https://ww[тук-сложи-линка-към-LinkedIn]w.linkedin.com/in/teodora-dyulgerova-6547a1311/)"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="[тук-сложи-линка-към-Instagram](https://www.instagram.com/_teodora.d/)"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="[тук-сложи-линка-към-Facebook](https://www.facebook.com/profile.php?id=100012583813529&locale=bg_BG)"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/badge/SoftUni-2B547E?style=for-the-badge&logo=gradle&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/teodora-dyulgerova-6547a1311/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/_teodora.d/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100012583813529&locale=bg_BG"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 </p>
