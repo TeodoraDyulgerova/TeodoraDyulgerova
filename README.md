@@ -1,20 +1,20 @@
 <!-- HEADER -->
-<h1 align="center">💜 Hey Everyone, I'm Teodora 💙</h1>
+<h1 align="center"> Hey Everyone, I'm Teodora </h1>
 <h3 align="center">🌌 Welcome to My GitHub Universe 🌌</h3>
 
 ---
 
-## 👩‍💻 About Me  
-- 🐍 My strongest programming language is **Python**  
-- 🤖 Starting my journey in **Machine Learning** (SoftUni ML course)  
-- 🎓 Currently studying **Computer and Software Engineering** at the Technical University of Sofia (3rd year)  
-- 🌱 Passionate about learning, building projects, and growing every day  
-- 🎀 Fresh perspective, creative energy, and a big love for tech  
-- 💡 Open to new opportunities in **ML & Software Development**  
+#  About Me  
+-  My strongest programming language is **Python**  
+-  Starting my journey in **Machine Learning** (SoftUni ML course)  
+-  Currently studying **Computer and Software Engineering** at the Technical University of Sofia (3rd year)  
+-  Passionate about learning, building projects, and growing every day  
+-  Fresh perspective, creative energy, and a big love for tech  
+-  Open to new opportunities in **ML & Software Development**  
 
 ---
 
-## 🛠️ Languages & Tools  
+#  Languages & Tools  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -28,7 +28,7 @@
 
 ---
 
-## 📊 My GitHub Stats  
+#  My GitHub Stats  
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TeodoraDyulgerova&show_icons=true&theme=tokyonight&title_color=bf91f3&icon_color=61dafb&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats"/>
@@ -45,21 +45,21 @@
 
 ---
 
-## 🏆 Achievements  
-- ✨ Started my **Machine Learning** journey  
-- 🎓 3rd year student at **TU Sofia**  
-- 🎀 Always learning and improving    
+#  Achievements  
+-  Started my **Machine Learning** journey  
+-  3rd year student at **TU Sofia**  
+-  Always learning and improving    
 
 ---
 
-## ⚡ Profile Views  
+# ⚡ Profile Views  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TeodoraDyulgerova&color=bf91f3&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🖥️ OS I Use  
+# OS I Use  
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <!--   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> -->
@@ -68,7 +68,7 @@
 
 ---
 
-## 📬 Connect with me  
+# Connect with me  
 <p align="center">
   <a href="https://www.linkedin.com/in/teodora-dyulgerova-6547a1311/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/_teodora.d/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
