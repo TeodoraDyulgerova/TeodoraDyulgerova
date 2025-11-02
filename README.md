@@ -1,4 +1,3 @@
-<!-- HEADER -->
 <h1 align="center"> Hey Everyone, I'm Teodora </h1>
 <h3 align="center">🌌 Welcome to My GitHub Universe 🌌</h3>
 
@@ -21,7 +20,7 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-orange?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
@@ -59,18 +58,15 @@
 
 ---
 
-# OS I Use  
+#  OS I Use  
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 </p>
 
----
 
-# Connect with me  
+#  Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/teodora-dyulgerova-6547a1311/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/_teodora.d/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100012583813529&locale=bg_BG"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+  <a href="mailto:teodoradyulgerova060@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
