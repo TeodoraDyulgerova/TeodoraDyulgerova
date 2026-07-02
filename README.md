@@ -1,81 +1,60 @@
-<h1 align="center"> Hey Everyone, I'm Teodora </h1>
-<h3 align="center">🌌 Welcome to My GitHub Universe 🌌</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:130F3A,50:7761A9,100:72C0D7&height=200&section=header&text=Teodora%20Dyulgerova&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Computer%20%26%20Software%20Engineering%20Student%20%7C%20Aspiring%20ML%20Engineer&descAlignY=62&descSize=16" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=72C0D7&center=true&vCenter=true&width=560&lines=Python+Developer;Machine+Learning+Enthusiast;Software+Engineering+Student+%40+TU+Sofia" alt="Typing SVG"/>
+
+</div>
 
 ---
 
-#  About Me  
--  My strongest programming language is **Python**  
--  Starting my journey in **Machine Learning** (SoftUni ML course)  
--  Currently studying **Computer and Software Engineering** at the Technical University of Sofia (3rd year)  
--  Passionate about learning, building projects, and growing every day  
--  Fresh perspective, creative energy, and a big love for tech  
--  Open to new opportunities in **ML & Software Development**  
+## About
 
+Third-year Computer & Software Engineering student at the Technical University of Sofia, focused on **Python** development and building a foundation in **Machine Learning**. I care about writing clean code, learning consistently, and turning ideas into working projects. Open to opportunities in **ML** and **Software Development**.
 
+---
 
-# Programming Languages  
+## Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
-# Development Environment  
+**Tools & Environment**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
-
-#  My GitHub Stats  
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TeodoraDyulgerova&show_icons=true&theme=tokyonight&title_color=bf91f3&icon_color=61dafb&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeodoraDyulgerova&layout=compact&theme=tokyonight&title_color=bf91f3&text_color=ffffff&bg_color=0d1117" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TeodoraDyulgerova&theme=tokyonight_duo&ring=bf91f3&fire=61dafb&currStreakLabel=ffffff" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TeodoraDyulgerova&theme=tokyo-night&bg_color=0d1117&title_color=bf91f3&line=61dafb&point=ffffff" alt="Contribution Graph"/>
+<p>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-#  Achievements  
--  Started my **Machine Learning** journey  
--  3rd year student at **TU Sofia**  
--  Always learning and improving    
+## GitHub Stats
 
----
-
-# ⚡ Profile Views  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TeodoraDyulgerova&color=bf91f3&style=for-the-badge" alt="Profile Views"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=TeodoraDyulgerova&show_icons=true&theme=tokyonight&title_color=8474B7&icon_color=72C0D7&text_color=ffffff&bg_color=130F3A&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeodoraDyulgerova&layout=compact&theme=tokyonight&title_color=8474B7&text_color=ffffff&bg_color=130F3A&hide_border=true"/>
 </p>
 
 ---
 
-#  OS I Use  
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+## Connect
 
-
-#  Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/teodora-dyulgerova-6547a1311/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:teodoradulgerova060@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p>
+  <a href="https://www.linkedin.com/in/teodora-dyulgerova-6547a1311/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:teodoradulgerova060@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
 </p>
