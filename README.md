@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:130F3A,50:7761A9,100:72C0D7&height=210&section=header&text=Teodora%20Dyulgerova&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%F0%9F%8C%8C%20Welcome%20to%20My%20GitHub%20Universe%20%F0%9F%8C%8C&descAlignY=60&descSize=17" width="100%"/>
+<img src="./assets/header.svg" width="100%" alt="Teodora Dyulgerova - Welcome to My GitHub Universe"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=72C0D7&center=true&vCenter=true&width=560&lines=Python+Developer;Machine+Learning+Enthusiast;Software+Engineering+Student+%40+TU+Sofia" alt="Typing SVG"/>
 
@@ -88,5 +88,5 @@ Third-year Computer & Software Engineering student at the Technical University o
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:72C0D7,50:7761A9,100:130F3A&height=100&section=footer"/>
+  <img src="./assets/footer.svg" width="100%" alt=""/>
 </div>
