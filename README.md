@@ -78,28 +78,28 @@ This idea guides how I work — looking for patterns, connections, and balance, 
 <tr>
 <td width="50%" valign="top">
 
-### Personal Portfolio
-A single-page portfolio website showcasing my work, skills, and journey in tech — designed with a clean, cinematic aesthetic.
+### [Exoplanet Classification](https://github.com/TeodoraDyulgerova/kepler-exoplanet-classification)
+Classifying NASA Kepler signals as confirmed exoplanets or false positives. A Random Forest model reached 92% accuracy.
 
-**Stack:** `HTML` · `CSS` · `Netlify`
+**Stack:** `Python` · `scikit-learn` · `Pandas`
 
 </td>
 <td width="50%" valign="top">
 
-### Data Analysis Project
-_A short one-line summary of the dataset, the question you explored, and the insight you found._
+### [Loan Default Prediction](https://github.com/TeodoraDyulgerova/loan-default-prediction)
+Predicting credit default on 30,000 clients with SMOTE balancing and a GridSearchCV-tuned Random Forest (ROC AUC 0.77).
 
-**Stack:** `Python` · `Pandas` · `Power BI`
+**Stack:** `Python` · `scikit-learn` · `SMOTE`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Machine Learning Model
-_The problem, the dataset, and the model you built to solve it._
+### [Personal Portfolio](https://github.com/TeodoraDyulgerova/Portfolio_Teodora_Dyulgerova)
+A single-page portfolio website showcasing my work and skills, with a clean, cinematic design.
 
-**Stack:** `Python` · `scikit-learn` · `NumPy`
+**Stack:** `HTML` · `CSS` · `JavaScript`
 
 </td>
 <td width="50%" valign="top">
@@ -112,8 +112,6 @@ Continuously building, learning, and adding new projects.
 </td>
 </tr>
 </table>
-
-<sub>Replace the placeholders with your real repositories and link each title to its repo.</sub>
 
 <img src="https://raw.githubusercontent.com/TeodoraDyulgerova/TeodoraDyulgerova/main/footer.svg" width="100%" height="3" alt=""/>
 
