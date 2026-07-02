@@ -14,7 +14,13 @@
 
 ## About
 
-Third-year Computer & Software Engineering student at the Technical University of Sofia, focused on **Python** development and building a foundation in **Machine Learning**. I care about writing clean code, learning consistently, and turning ideas into working projects. Open to opportunities in **ML** and **Software Development**.
+My passion for **Data Science** comes from working with real data and solving practical problems. I've worked with datasets from 5 different countries and contributed to 15+ data science projects, gaining hands-on experience in **data analysis**, **feature engineering**, and **machine learning**.
+
+I love discovering patterns in complex data and turning them into meaningful insights that support better decision-making. Beyond Data Science, I stay active through fitness and enjoy exploring astronomy.
+
+> *"As above, so below."*
+
+This idea reminds me to look for patterns, connections, and balance — whether in data, nature, or the universe. I believe curiosity and continuous learning are the foundation of both personal and professional growth.
 
 ---
 
