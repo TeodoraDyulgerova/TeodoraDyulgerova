@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TeodoraDyulgerova/TeodoraDyulgerova/main/assets/header.svg" width="100%" alt="Teodora Dyulgerova - Welcome to My GitHub Universe"/>
+<img src="https://raw.githubusercontent.com/TeodoraDyulgerova/TeodoraDyulgerova/main/header.svg" width="100%" alt="Teodora Dyulgerova - Welcome to My GitHub Universe"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=72C0D7&center=true&vCenter=true&width=560&lines=Python+Developer;Machine+Learning+Enthusiast;Software+Engineering+Student+%40+TU+Sofia" alt="Typing SVG"/>
 
@@ -88,5 +88,5 @@ Third-year Computer & Software Engineering student at the Technical University o
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TeodoraDyulgerova/TeodoraDyulgerova/main/assets/footer.svg" width="100%" alt=""/>
+  <img src="https://raw.githubusercontent.com/TeodoraDyulgerova/TeodoraDyulgerova/main/footer.svg" width="100%" alt=""/>
 </div>
