@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/Data_Science-8474B7?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Machine_Learning-7761A9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Astronomy_Enthusiast-25336E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Astronomy-25336E?style=for-the-badge"/>
 
 <br/><br/>
 
@@ -18,11 +18,11 @@
 
 ---
 
-##  About Me
+## About Me
 
 My passion for **Data Science** comes from working with real data and solving practical problems. I've worked with datasets from 5 different countries and contributed to 15+ data science projects, gaining hands-on experience in **data analysis**, **feature engineering**, and **machine learning**. I love discovering patterns in complex data and turning them into meaningful insights that support better decision-making.
 
-##  What Drives Me
+## What Drives Me
 
 > *"As above, so below."*
 
@@ -30,13 +30,13 @@ This idea reminds me to look for patterns, connections, and balance — whether 
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-###  Personal Portfolio
+### Personal Portfolio
 My portfolio website showcasing my work, skills, and journey in tech.
 
 `HTML` · `CSS` · `Netlify`
@@ -44,7 +44,7 @@ My portfolio website showcasing my work, skills, and journey in tech.
 </td>
 <td width="50%" valign="top">
 
-###  Data Science Project
+### Data Science Project
 _Short description of a data analysis / ML project you're proud of._
 
 `Python` · `Pandas` · `scikit-learn`
@@ -54,7 +54,7 @@ _Short description of a data analysis / ML project you're proud of._
 <tr>
 <td width="50%" valign="top">
 
-###  Machine Learning Project
+### Machine Learning Project
 _Short description — model, dataset, and the problem it solves._
 
 `Python` · `NumPy` · `Jupyter`
@@ -62,8 +62,8 @@ _Short description — model, dataset, and the problem it solves._
 </td>
 <td width="50%" valign="top">
 
-### ➕ More Coming Soon
-Continuously building and learning. Stay tuned!
+### More Coming Soon
+Continuously building and learning. Stay tuned.
 
 `...`
 
@@ -71,11 +71,11 @@ Continuously building and learning. Stay tuned!
 </tr>
 </table>
 
-<sub> Replace the placeholders and link each title to its repository.</sub>
+<sub>Replace the placeholders and link each title to its repository.</sub>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -98,18 +98,7 @@ Continuously building and learning. Stay tuned!
 
 ---
 
-##  GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=TeodoraDyulgerova&show_icons=true&theme=tokyonight&title_color=8474B7&icon_color=72C0D7&text_color=ffffff&bg_color=130F3A&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeodoraDyulgerova&layout=compact&theme=tokyonight&title_color=8474B7&text_color=ffffff&bg_color=130F3A&hide_border=true"/>
-
-</div>
-
----
-
-##  Current Focus & Interests
+## Current Focus & Interests
 
 ```python
 current_focus = {
@@ -122,15 +111,15 @@ current_focus = {
 
 ---
 
-##  Beyond Code
+## Beyond Code
 
-- 🏋️ **Fitness** — staying active, disciplined, and balanced
-- 🔭 **Astronomy** — looking up, searching for patterns in the stars
-- 📚 **Continuous learning** — always curious, always growing
+- **Fitness** — staying active, disciplined, and balanced
+- **Astronomy** — looking up, searching for patterns in the stars
+- **Continuous learning** — always curious, always growing
 
 ---
 
-##  Let's Connect
+## Let's Connect
 
 <div align="center">
 
