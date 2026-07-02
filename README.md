@@ -71,9 +71,16 @@ Third-year Computer & Software Engineering student at the Technical University o
 ## Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TeodoraDyulgerova&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6"/>
+  <img src="https://img.shields.io/badge/🎓_TU_Sofia-3rd_Year_Student-8474B7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🤖_Machine_Learning-SoftUni_Course-72C0D7?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🐍_Python-Main_Language-3670A0?style=for-the-badge"/>
 </p>
 
+<ul>
+  <li>🎓 3rd-year Computer &amp; Software Engineering student at <b>TU Sofia</b></li>
+  <li>🤖 Started my <b>Machine Learning</b> journey (SoftUni ML course)</li>
+  <li>🚀 Continuously building projects and improving every day</li>
+</ul>
 ---
 
 ## Connect
