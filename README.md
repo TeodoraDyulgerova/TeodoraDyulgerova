@@ -62,6 +62,23 @@ This idea guides how I work — looking for patterns, connections, and balance, 
 
 <img src="https://raw.githubusercontent.com/TeodoraDyulgerova/TeodoraDyulgerova/main/footer.svg" width="100%" height="3" alt=""/>
 
+## GitHub Statistics
+
+<div align="center">
+
+<img height="170em" src="https://ТВОЯ-АДРЕС.vercel.app/api?username=TeodoraDyulgerova&show_icons=true&hide_border=true&theme=tokyonight&title_color=8474B7&icon_color=72C0D7&text_color=ffffff&bg_color=130F3A"/>
+<img height="170em" src="https://ТВОЯ-АДРЕС.vercel.app/api/top-langs/?username=TeodoraDyulgerova&layout=compact&hide_border=true&theme=tokyonight&title_color=8474B7&text_color=ffffff&bg_color=130F3A"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TeodoraDyulgerova&theme=tokyonight&hide_border=true&background=130F3A&ring=8474B7&fire=72C0D7&currStreakLabel=ffffff"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/TeodoraDyulgerova/TeodoraDyulgerova/main/footer.svg" width="100%" height="3" alt=""/>
+
 ## Featured Projects
 
 <table>
